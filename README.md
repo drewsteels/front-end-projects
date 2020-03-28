@@ -2,8 +2,10 @@
 
 # A repository with tutorial projects
  
-# Languages and there frameworks
+# Languages and their frameworks
  HTML5
+ 
  CSS3
+ 
  JAVASCRIPT
  
